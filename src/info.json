@@ -1,0 +1,37 @@
+[
+    {
+        "number": 0,
+        "todo": "wash",
+        "category": "about me"
+    },
+    {
+        "number": 1,
+        "todo": "Dressed up",
+        "category": "dressing to the snow"
+    },
+    {
+        "number": 2,
+        "todo": "Work",
+        "category": "work"
+    },
+    {
+        "number": 3,
+        "todo": "swimming",
+        "category": "relaxing"
+    },
+    {
+        "number": 4,
+        "todo": "sankasj",
+        "category": "hehe"
+    },
+    {
+        "number": 5,
+        "todo": "asdasdas",
+        "category": "asdas"
+    },
+    {
+        "number": 6,
+        "todo": "castravecioara",
+        "category": "kjnk"
+    }
+]

@@ -1,0 +1,130 @@
+.App-header {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.button-add {
+  background-color: #731994;
+  border: none;
+  color: white;
+  padding: 5px;
+  border-radius: 15%;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1-add {
+  background-color: #731994;
+  border: 2px solid #731994;
+  color: white;
+}
+.button1-add:hover {
+  background-color: #e0bced;
+  color: black;
+  border: 2px solid #8b46a4;
+}
+.button-change {
+  background-color: #b4dcb6;
+  border: none;
+  color: white;
+  padding: 5px;
+  border-radius: 15%;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1-change {
+  background-color: #4caf50;
+  border: 2px solid #148414;
+  color: white;
+}
+.button1-change:hover {
+  background-color: rgb(209, 232, 212);
+  color: black;
+  border: 2px solid #148414;
+}
+.text {
+  color: #161515;
+  font-size: 30px;
+}
+.button-submit {
+  width: 70%;
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  margin: 8px 0;
+  border: none;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 2px solid rgb(14, 15, 14);
+}
+
+.button-exit {
+  background-color: rgb(213, 21, 21);
+  border: none;
+  color: white;
+  width: 70%;
+  padding: 10px;
+  border-radius: 10%;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 2px solid rgb(14, 15, 14);
+}
+
+.text-box-todo {
+  border: 2px solid rgb(6, 103, 25);
+  border-radius: 4px;
+  width: 60%;
+  padding: 15px;
+  margin: 20px 0;
+  box-sizing: border-box;
+}
+.text-box-category {
+  border: 2px solid rgb(6, 103, 25);
+  border-radius: 4px;
+  width: 90%;
+  padding: 15px;
+  margin: 20px 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: #282c34;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table {
+  border: 2px solid #148414;
+  width: 1000px;
+  height: 400px;
+}
+
+.th {
+  border-bottom: 1px solid black;
+}
+
+.td {
+  text-align: center;
+}
