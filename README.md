@@ -1,7 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## [Project Video Link](https://drive.google.com/file/d/1_W8jhP-uArJbkJGvD863HR8D0whLzCOo/view?usp=drive_link)
 
+**"Aplicație de gestionare a sarcinilor cu autentificare"**
+
+Proiectul este o aplicație web construită cu Next.js, care permite utilizatorilor să se autentifice și să se înregistreze. După autentificare, utilizatorii pot adăuga, actualiza și vizualiza sarcini ("to-dos") într-o listă, fiecare sarcină având o categorie asociată. Aplicația utilizează un backend bazat pe fișiere JSON pentru stocarea sarcinilor și a utilizatorilor, și folosește Axios pentru comunicarea între frontend și backend. Interfețele de utilizator sunt gestionate prin modale pentru actualizări și adăugări de sarcini și categorii.
+
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
